@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/vector_db/*
+!data/vector_db/.gitkeep
+data/reports/*.docx
+.streamlit/
+*.log
